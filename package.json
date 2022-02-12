@@ -1,0 +1,20 @@
+{
+  "name": "cursomanguinho",
+  "version": "1.0.0",
+  "description": "Curso ministrado por Rodrigo Manguinho, utilizando ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaspaixaodegois/CursoManguinho.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaspaixaodegois/CursoManguinho/issues"
+  },
+  "homepage": "https://github.com/lucaspaixaodegois/CursoManguinho#readme"
+}
